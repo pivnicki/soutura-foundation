@@ -1020,8 +1020,8 @@ footer {
     height: 100%; 
     margin-bottom: 5px;
 }
-.height-200{
-	height: 200px;
+.height-500{
+	height: 500px;
 }
 
 .entry-header{
@@ -1108,6 +1108,10 @@ footer {
    justify-content: center;
 }
 
-.project:nth-child(2){
-	background: red!important;
+.site-footer{
+	background-color: #339ca7;
+    color: #fff;
+}
+.page-template{
+	margin: 0;
 }
