@@ -12,8 +12,8 @@
 	<div class="row">
 	<div class="col-sm-12 col-md-8">
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-	<header class="entry-header">
-		<?php the_title( '<h1 class="entry-title text-center text-white p-5">', '</h1>' ); ?>
+	<header class="entry-header discover-soutura">
+		<?php the_title( '<h1 class="entry-title text-center text-white p-5 iza height-500 border-radious-left-8 border-radious-right-8">', '</h1>' ); ?>
 	</header><!-- .entry-header -->
 
 	<?php soutoura_foundation_post_thumbnail(); ?>

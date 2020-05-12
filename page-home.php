@@ -327,7 +327,7 @@ $the_query3 = new WP_Query ( $args3 );
          </div>
 
          <!-- /.col-sm-4 -->
-         <div class="col-sm-12 col-md-8 height-500">
+         <div class="col-sm-12 col-md-8 height-200">
           <?php 
           while ( $the_query2->have_posts() ) {
             $the_query2->the_post();  
